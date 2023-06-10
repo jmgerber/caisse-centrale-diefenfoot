@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Saucisse / Merguez",
+    "categorie": "salés",
+    "price": 3,
+    "image": "icone_saucisse.png"
+  },
+  {
+    "id": 10,
+    "name": "Bière bouteille",
+    "categorie": "boisson",
+    "price": 2.50,
+    "image": "icone_biere_bouteille.png"
+  },
+  {
+    "id": 12,
+    "name": "Boisson en canette",
+    "categorie": "boisson",
+    "price": 2,
+    "image": "icone_boisson_soft.png"
+  },
+  {
+    "id": 6,
+    "name": "Café",
+    "categorie": "boisson",
+    "price": 1,
+    "image": "icone_cafe_gateau.png"
+  },
+  {
+    "id": 11,
+    "name": "Eau",
+    "categorie": "boisson",
+    "price": 2,
+    "image": "icone_eau.png"
+  }
+]
